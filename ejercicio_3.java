@@ -1,3 +1,4 @@
+//20241222219 David Cerinza
 import java.util.Scanner;
 
     public class ejercicio_3 {
